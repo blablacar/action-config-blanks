@@ -1,5 +1,9 @@
 # GitHub Action: Config Blanks
 
+> ⚠️ This code is no longer maintained.
+> We'd love it if you fork it and continue developing this action.
+> Otherwise, you can use the author's fork [levonet/action-config-blanks](https://github.com/levonet/action-config-blanks).
+
 This action helps create dynamic configuration files during workflow.
 JSON in key-value format is passed to the action input.
 The key is the path to the file or directory.
